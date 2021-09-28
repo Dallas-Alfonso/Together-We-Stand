@@ -2,6 +2,8 @@
 
 Tracks current Recoveries, Fatalities and Infected from Covid-19 globally.
 
+Live App: https://cproj.netlify.app/git
+
 ## Features
 
 - API used to provide most current global numbers of those affected by Covid-19
